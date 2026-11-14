@@ -1,6 +1,6 @@
 # NVIDIA Stock Analysis: Scandal Dip vs. AI Fundamentals
 
-A beginner-friendly Python project that analyzes NVIDIA stock around a recent CEO-related news event. The goal is to separate short-term sentiment-driven volatility from long-term value. 
+This project explores whether short-term news around NVIDIA's leadership affects the company's long-term value. The analysis shows that NVIDIA's stock is backed by years of GPU innovation, the CUDA platform, and sustained demand for AI infrastructure
 
 # The question
 
