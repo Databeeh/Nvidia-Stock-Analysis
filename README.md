@@ -28,9 +28,13 @@ plotly
 The notebook downloads one year of NVIDIA stock data and plots:
 
 Closing price
+
 50-day and 200-day simple moving averages
+
 A vertical marker for the date the CEO-related news broke
+
 Trading volume below the price chart
+
 The moving averages help smooth out daily noise so the longer-term trend is easier to see. High volume around the dip suggests news-driven selling rather than a slow business decline.
 
 # How to run
